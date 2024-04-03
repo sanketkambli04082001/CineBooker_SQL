@@ -48,4 +48,4 @@ CineBooker is an innovative Movie Management System (MMS), designed to enhance t
 
 ## ER-Diagram
 
-![App Screenshot](https://github.com/sanketkambli04082001/CineBooker_SQL/assets/99606067/49160331-b866-4949-a5d2-c9190d8b5c54)
+![App Screenshot]![ER_Diag](https://github.com/sanketkambli04082001/CineBooker_SQL/assets/99606067/74a87477-08bd-4204-ba33-63090226c9cb)
